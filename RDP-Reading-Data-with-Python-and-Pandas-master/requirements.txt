@@ -7,7 +7,7 @@ pytest-json==0.4.0
 pytest-metadata==1.8.0
 pytest-pep8==1.0.6
 
-numpy==1.19.0
+numpy==1.22.0
 pandas==0.25.1
 
 rmotr-curriculum-tools==0.2.0
